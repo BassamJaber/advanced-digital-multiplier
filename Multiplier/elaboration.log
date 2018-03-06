@@ -1,0 +1,38 @@
+Active-HDL 8.3.2120.sp1.14.3884  2013-04-30 00:10:30
+
+Elaboration top modules:
+Architecture                  verification(verification)
+
+
+---------------------------------------------------------------------------------------------------------
+Entity        | Architecture | Library    | Info | Compiler Version                | Compilation Options
+---------------------------------------------------------------------------------------------------------
+verification  | verification | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+TestGenerator | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+System        | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+Analyzer      | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+Multiplier    | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+andGate       | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+RippleAdder   | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+fullAdder     | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+xorGate       | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+orGate        | simple       | multiplier |      | 8.3.2120.sp1.14.3884  (Windows) | -O3 -2002
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+VHDL Package                 | Library    | Info | Compiler Version                | Compilation Options
+---------------------------------------------------------------------------------------------------------
+standard                     | std        |      |                                 | <unavailable>
+TEXTIO                       | std        |      | 8.3.2120.sp1.14.3884  (Windows) | -2008
+std_logic_1164               | ieee       |      | 8.3.2120.sp1.14.3884  (Windows) | -2008
+std_logic_arith              | ieee       |      | 8.3.2120.sp1.14.3884  (Windows) | -2002
+STD_LOGIC_TEXTIO             | ieee       |      | 8.3.2120.sp1.14.3884  (Windows) | -2002
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+Library                      | Comment
+---------------------------------------------------------------------------------------------------------
+ieee                         | Standard IEEE packages library
+multiplier                   | None
+std                          | Standard VHDL library
+---------------------------------------------------------------------------------------------------------

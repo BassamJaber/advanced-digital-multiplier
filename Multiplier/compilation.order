@@ -1,0 +1,6 @@
+.\src\Gates.vhd
+.\src\4-bit Adders.vhd
+.\src\Carry Look Ahead Adder.vhd
+.\src\Multiplier.vhd
+.\src\System.vhd
+.\src\Verification.vhd

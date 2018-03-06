@@ -1,0 +1,43 @@
+3631
+~E 1 "./src/Gates.vhd" 29 nandgate
+~A 1 "./src/Gates.vhd" 33 simple
+~E 1 "./src/Carry Look Ahead Adder.vhd" 13 carrylookaheadgenerator
+~A 1 "./src/Carry Look Ahead Adder.vhd" 20 simple
+~E 1 "./src/Gates.vhd" 62 andgate
+~A 1 "./src/Gates.vhd" 61 simple
+~E 1 "./src/Verification.vhd" 46 analyzer
+~A 1 "./src/Verification.vhd" 47 simple
+~E 1 "./src/Carry Look Ahead Adder.vhd" 40 carrylookaheadadder
+~A 1 "./src/Carry Look Ahead Adder.vhd" 49 simple
+~E 1 "./src/4-bit Adders.vhd" 14 fulladder
+~A 1 "./src/4-bit Adders.vhd" 19 simple
+~A 1 "./src/4-bit Adders.vhd" 33 fastandvarious
+~E 1 "./src/4-bit Adders.vhd" 33 four_bit_adder
+~A 1 "./src/4-bit Adders.vhd" 42 iterative
+~E 1 "./src/Multiplier.vhd" 13 multiplier
+~A 1 "./src/Multiplier.vhd" 21 simple
+~A 1 "./src/Multiplier.vhd" 21 one
+~E 1 "./src/System.vhd" 14 system
+~A 1 "./src/System.vhd" 23 simple
+~E 1 "./src/Gates.vhd" 127 or3gate
+~A 1 "./src/Gates.vhd" 133 simple
+~E 1 "./src/Gates.vhd" 13 notgate
+~A 1 "./src/Gates.vhd" 19 simple
+~E 1 "./src/Gates.vhd" 46 norgate
+~A 1 "./src/Gates.vhd" 47 simple
+~C 1 "./src/Multiplier.vhd" 79 one
+~E 1 "./src/System.vhd" 56 parallelloadregister
+~A 1 "./src/System.vhd" 62 simple
+~E 1 "./src/Gates.vhd" 78 orgate
+~A 1 "./src/Gates.vhd" 75 simple
+~E 1 "./src/4-bit Adders.vhd" 37 rippleadder
+~A 1 "./src/4-bit Adders.vhd" 45 simple
+~A 1 "./src/4-bit Adders.vhd" 43 iterative
+~E 1 "./src/Verification.vhd" 15 verification
+~A 1 "./src/Verification.vhd" 17 verification
+~E 1 "./src/Verification.vhd" 68 testgenerator
+~A 1 "./src/Verification.vhd" 90 simple
+~E 1 "./src/Gates.vhd" 111 xnorgate
+~A 1 "./src/Gates.vhd" 103 simple
+~E 1 "./src/Gates.vhd" 95 xorgate
+~A 1 "./src/Gates.vhd" 89 simple
