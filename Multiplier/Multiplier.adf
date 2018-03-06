@@ -1,0 +1,64 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=Multiplier
+
+[Library]
+Multiplier=.\Multiplier.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+Multiplier=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=fulladder|fastandvarious|0 multiplier|simple|0 system|simple|0 verification|verification|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Gates.vhd=-1
+/4-bit Adders.vhd=-1
+/Carry Look Ahead Adder.vhd=-1
+/Multiplier.vhd=-1
+/System.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+/Verification.vhd=-1
+
+[Files.Data]
+.\src\Gates.vhd=VHDL Source Code
+.\src\4-bit Adders.vhd=VHDL Source Code
+.\src\Carry Look Ahead Adder.vhd=VHDL Source Code
+.\src\Multiplier.vhd=VHDL Source Code
+.\src\System.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\Verification.vhd=VHDL Source Code
+

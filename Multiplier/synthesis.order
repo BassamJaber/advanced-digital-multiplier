@@ -1,0 +1,6 @@
+i<>.\src\Gates.vhd
+i<>.\src\4-bit Adders.vhd
+i<>.\src\Carry Look Ahead Adder.vhd
+i<>.\src\Multiplier.vhd
+i<>.\src\System With Register Input.vhd
+i<>.\src\Verification.vhd
